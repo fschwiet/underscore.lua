@@ -12,7 +12,7 @@ describe["_.each"] = function()
 	end
 	
 	it["should return the input"] = function()
-		expect(result).should_be(result)
+		expect(result).should_be(input)
 	end
 end
 
